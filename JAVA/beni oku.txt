@@ -1,0 +1,3 @@
+- Ödev çalıştığı yerde veri dosyaları olması gerekmektedir .Örneğin : ecplipsde çalışacaksa src içindeki srcde olması lazım . 
+Distden jar çalışacaksa Dist içinde olması lazım .
+- Ödev JRE 23 kullanarak yazılmıştır . 

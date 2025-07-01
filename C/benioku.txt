@@ -1,0 +1,3 @@
+** Ödevde kod exeden çalıştırılcak ise dosyalar bin dizininde olması lazım 
+*** kod vscode üzerinden çalıştırılcak ise dosyalar ana dizinde olması lazım b231210081 ödev2 dosyasının içinde olması yeter 
+**** uygulama exeden çalıştırıldığınde program bitip ekranın kapanmamsı için çıkış kontrolü koydum iyi günler 
